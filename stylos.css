@@ -278,11 +278,3 @@ margin: 0 5rem 0 5rem;
 .dropdown:hover .dropdown-content {
   display: block;
 }
-
-@media (min-width: 950px) {
-    
-}
-
-@media (max-width:950px) {
-    
-}
